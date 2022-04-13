@@ -8,3 +8,4 @@ By moving your hand from side to side the background behind the user switches to
 # Prerequisites:
 Medialib
 OpenCV
+# Just Run the python file and you are good to go !!!
